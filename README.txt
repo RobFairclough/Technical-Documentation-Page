@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/robfairclough/pen/PaLLmB.
+This is a FreeCodeCamp project, building a technical documentation page. It's written in HTML and CSS and is a responsive site.
 
- 
